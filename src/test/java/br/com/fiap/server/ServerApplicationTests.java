@@ -1,4 +1,4 @@
-package com.github.devpavanello.server;
+package br.com.fiap.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
